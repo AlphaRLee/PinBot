@@ -1,0 +1,7 @@
+{
+	"prefix": "!",
+	"pinChannelName": "pins",
+	"pinEmojiName": "pushpin",
+	"pinEmojiIdentifier": "%F0%9F%93%8C",
+	"pinLimit": 50
+}

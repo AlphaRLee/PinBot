@@ -1,0 +1,2 @@
+node ./pinbot.js
+pause
