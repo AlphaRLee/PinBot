@@ -1,10 +1,10 @@
 {
 	"name": "PinBot",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "A friendly bot that handles your many pins",
 	"main": "./pinbot.js",
 	"author": "R Lee",
 	"dependencies": {
-		"discord.js": "^11.4.2"
+		"discord.js": "^14.5.0"
 	}
 }
